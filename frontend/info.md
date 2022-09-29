@@ -1,0 +1,2 @@
+- **MongoDB**: user = `luiz`, password = `12345`
+- `mongodb+srv://luiz:<password>@cluster0.pfwrbsd.mongodb.net/?retryWrites=true&w=majority`
